@@ -7,6 +7,9 @@ PHP를 이용해 회원관리 프로그램을 만들었습니다
 
 ![캡처_2023_08_10_17_36_35_897](https://github.com/pcw1405/rakuPHP/assets/130324807/5b645ea4-bdec-4b5d-86db-a8abaf879003)
 
+# 사용기술 및 언어
+html, css, 자바스크립트,php ,mysql ,제이쿼리,부트스트랩을 사용했습니다
+
 
 
 
